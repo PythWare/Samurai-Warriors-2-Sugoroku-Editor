@@ -1,2 +1,2 @@
-# Samurai-Warriors-2-Sugoroku-Editor
-An Editor for the Sugoroku mode in Samurai Warriors 2
+An Editor for the Sugoroku mode in Samurai Warriors 2. Credit goes to God(Christian) and myself for the programming of the Editor. The Editor currently only works for the US version of the PS2 version of Samurai Warriors 2 but you can change the offset in the script to the offset for Property data for the version of the game you want to mod whether it is a different region version of the ps2 version or the PC version of the game. The offset used for the US version of the PS2 game for Property Data is 
+64351F0. I included the icons zip file for the Editor. I intended to make a coordinate guider script for Sugoroku mode but I ran out of time. You can mod property data and create custom Sugoroku maps since the editor handles the X and Y coordinates of where properties are in Sugoroku mode.
