@@ -24,7 +24,7 @@ def rem(files1, files2):
 class SugorokuEditor(TheCheck):
     def __init__(self, root):
         self.root = root
-        self.root.title("Samurai Warriors 2 Sugoroku Editor")
+        self.root.title("Samurai Warriors 2 Sugoroku Editor PS2 version")
         self.root.iconbitmap(os.path.join(sug_folders[0], "icon1.ico"))
         self.root.minsize(1000, 700)
         self.root.resizable(False, False)
@@ -229,3 +229,4 @@ if __name__ == "__main__":
     for folds in sug_folders:
         os.makedirs(folds, exist_ok = True)
     runner()
+
